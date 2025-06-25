@@ -24,5 +24,7 @@ public class Main {
         abs.writeAllContactsToFile();
         abs.printAllContacts3();
 
+        // here i write one comment to see use of pull command
+
     }
 }
